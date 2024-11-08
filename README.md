@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://goldavenue.com">
-    <img src="https://www.goldavenue.com/packs/media/src/images/logos/logo_main-dfe6c41ac4008916aee56a271fccfafd.svg" height="128">
+    <img src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/ec20fa93-9b62-4681-b095-0d27a9cfa1df/original.png" height="128">
     <h1 align="center">Technical Test - Next.js and Typescript</h1>
   </a>
 </p>
@@ -20,9 +20,17 @@
   </a>
 </p>
 
-## Introduce
+## Introduction
 
-It's a pokemon list.
+This project is a technical test for a job application at Gold Avenue. 
+The goal is to create a web application using Next.js and Typescript. The application must be able to display a list of pokemons and their details.
+
+- Fork this repository on your account
+- Create a new branch
+- Open a pull request on `main` branch
+- If possible, host the project on a platform like Vercel, Netlify, Heroku, etc. for easier review
+
+### Requirements
 
 #### Pokemon List
 
@@ -55,19 +63,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-#### Install the dependencies
+### Install the dependencies
 
 ```bash
 @user:~$ npm install
 ```
 
-#### Run the project
+### Run the project
 
 ```bash
 @user:~$ npm run dev
 ```
 
-#### Test the project
+### Test the project
 
 ```bash
 @user:~$ npm run test
